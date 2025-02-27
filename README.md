@@ -13,17 +13,18 @@ I'm a passionate developer with experience in **Frontend**, **Backend**, and dat
 ## 🎨 Design
 - ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat)
 
+## 🌍 Languages
+- **Spanish**: Native
+- **English**: Advanced
+- **German**: Basic
+
 ## ⚙️ Others
 - jQuery
 - Bootstrap
 - Node.JS
 - Git & GitHub
 
-## 🌍 Languages
-- **Spanish**: Native
-- **English**: Advanced
-- **German**: Basic
-
+## 🕹️ See some of my videogames Here 👉 [miorlear.itch.io](https://miorlear.itch.io/)
 ---
 
 ### 📫 Contact
