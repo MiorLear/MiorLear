@@ -1,4 +1,4 @@
-# Hi! I'm Miguel Orlando Ledezma Arévalo 👋
+# Hi! I'm Miguel Ledezma👋
 
 I'm a passionate developer with experience in **Frontend**, **Backend**, and database management. Here’s a quick overview of my skills.
 
